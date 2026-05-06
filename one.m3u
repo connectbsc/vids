@@ -1,3 +1,5 @@
-#EXTINF:-1,Prathichaya-720P-2026
+#EXTM3U
+
+#EXTINF:-1, tvg-logo="https://m.media-amazon.com/images/M/MV5BYmEyN2QxODMtMGI2MS00ZDVlLTk3NDUtMmI4NWViNzNjZjQxXkEyXkFqcGc@._V1_.jpg", Prathichaya-720P-2026
 #EXTVLCOPT:network-caching=1000
 https://hub.maverick.lat/3b783b173514c5059d3840b4970077fd?token=1777634342149
