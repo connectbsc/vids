@@ -1,17 +1,13 @@
 #EXTM3U
 
-#EXTINF:-1, tvg-logo="https://image.tmdb.org/t/p/w500/4VD2H8ZwFDORWCaYS5TbhMVPdAv.jpg", Prathicharya-Telugu-2026
-#EXTVLCOPT:network-caching=1000
-https://hub.maverick.lat/3b783b173514c5059d3840b4970077fd?token=1777634342149
-
-#EXTINF:-1, tvg-logo="https://image.tmdb.org/t/p/w500/1IIUWMKzNVvI6YJX8BKE6EJ9bVd.jpg", LIK-Telugu-2026
+#EXTINF:-1, LIK-Telugu-2026
 #EXTVLCOPT:network-caching=1000
 https://hub.lotuscdn.club/118c1ca1d0844c0d762345fdabecb20d?token=177805248315
 
-#EXTINF:-1, tvg-logo="https://image.tmdb.org/t/p/w500/97jAFQcAnspd416cupbAbGMNT9z.jpg", D Kerala Stry 2 GB-Telugu-2026
+#EXTINF:-1, D Kerala Stry 2 GB-Telugu-2026
 #EXTVLCOPT:network-caching=1000
 https://hub.diskcdn.buzz/cc319bea16147a17fcad1098bf9d9eae?token=177805673018
 
-#EXTINF:-1, tvg-logo="https://image.tmdb.org/t/p/w500/uNN0DqB7fwGeX3uNhTfQzzKhgTP.jpg", D Kerala Stry 2 GB-Telugu-2026
+#EXTINF:-1, D Kerala Stry 2 GB-Telugu-2026
 #EXTVLCOPT:network-caching=1000
 https://hub.diskcdn.buzz/35765775ed7c19b997d3209520004420?token=1778057128115
