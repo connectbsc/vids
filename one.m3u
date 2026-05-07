@@ -1,5 +1,13 @@
 #EXTM3U
 
+#EXTINF:-1, Happi Raju-Telugu-2026
+#EXTVLCOPT:network-caching=1000
+https://hub.maverick.lat/846e4c20ac82a23512ed384e5e6242dd?token=1778148809143
+
+#EXTINF:-1, Aaaadu-Telugu-2026
+#EXTVLCOPT:network-caching=1000
+https://hub.diskcdn.buzz/e06cdd51e8ff2400bba6ff00cbffbccb?token=1778148916145
+
 #EXTINF:-1, LIK-Telugu-2026
 #EXTVLCOPT:network-caching=1000
 https://hub.lotuscdn.club/118c1ca1d0844c0d762345fdabecb20d?token=177805248315
