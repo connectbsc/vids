@@ -1,4 +1,12 @@
 #EXTM3U
+#EXTINF:-1, Vaja 2-Telugu-2026
+#EXTVLCOPT:network-caching=1000
+https://hub.lotuscdn.club/6022dcd1d6981509bfc14c8b31c9c5b3?token=177829768614
+
+#EXTINF:-1, Banatyam 2 Mattam-Telugu-2026
+#EXTVLCOPT:network-caching=1000
+https://hub.lotuscdn.club/26b9b4df7cb2b448a485232c1409c156?token=1778297839
+
 #EXTINF:-1, Aaaadu-Telugu-2026
 #EXTVLCOPT:network-caching=1000
 https://hub.diskcdn.buzz/e06cdd51e8ff2400bba6ff00cbffbccb?token=1778148916145
