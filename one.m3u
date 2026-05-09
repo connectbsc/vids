@@ -1,24 +1,24 @@
 #EXTM3U
-#EXTINF:-1, Vaja 2-Telugu-2026
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/1yLZ7kExd0UGGbaZW4LxmYD4OIf.jpg", Vaja 2-Telugu-2026
 #EXTVLCOPT:network-caching=1000
 https://hub.lotuscdn.club/6022dcd1d6981509bfc14c8b31c9c5b3?token=177829768614
 
-#EXTINF:-1, Banatyam 2 Mattam-Telugu-2026
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/lsg0IxNQCUxKqs63YjturEuY0qQ.jpg", Banatyam 2 Mattam-Telugu-2026
 #EXTVLCOPT:network-caching=1000
 https://hub.lotuscdn.club/26b9b4df7cb2b448a485232c1409c156?token=1778297839
 
-#EXTINF:-1, Aaaadu-Telugu-2026
+#EXTINF:-1 tvg-logo="", Aaaadu-Telugu-2026
 #EXTVLCOPT:network-caching=1000
 https://hub.diskcdn.buzz/e06cdd51e8ff2400bba6ff00cbffbccb?token=1778148916145
 
-#EXTINF:-1, LIK-Telugu-2026
+#EXTINF:-1 tvg-logo="", LIK-Telugu-2026
 #EXTVLCOPT:network-caching=1000
 https://hub.lotuscdn.club/118c1ca1d0844c0d762345fdabecb20d?token=177805248315
 
-#EXTINF:-1, D Kerala Stry 2 GB-Telugu-2026
+#EXTINF:-1 tvg-logo="", D Kerala Stry 2 GB-Telugu-2026
 #EXTVLCOPT:network-caching=1000
 https://hub.diskcdn.buzz/cc319bea16147a17fcad1098bf9d9eae?token=177805673018
 
-#EXTINF:-1, D Kerala Stry 2 GB-Telugu-2026
+#EXTINF:-1 tvg-logo="", Movie Name
 #EXTVLCOPT:network-caching=1000
 https://hub.diskcdn.buzz/35765775ed7c19b997d3209520004420?token=1778057128115
