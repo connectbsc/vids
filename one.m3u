@@ -1,5 +1,17 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/dI7CjJA4cC92UcKMBnCh5BTDHVQ.jpg", DoorAndhar-Two-2026
+#EXTVLCOPT:network-caching=1000
+https://hub.glasscdn.buzz/8ff4ccedc60818879f03d5d8b5883ffe?token=1778832395
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/dNSxtbTKClhbCVwChbW7GogafJy.jpg", Karthavyam-2026
+#EXTVLCOPT:network-caching=1000
+https://hub.glasscdn.buzz/ffdfa9ef939b989b6509ccef9de3b8dd?token=1778834936118
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/5dYmfe3UtKyWZs4GNlLPS4pweEa.jpg", 10 Haurs-2026
+#EXTVLCOPT:network-caching=1000
+https://hub.lotuscdn.club/83ad4ab0f26b9d777737f01c3a93a1f3?token=1778835041120
+
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/lbrnJY7E0a9xxgj2cotNp6YI4dz.jpg", Dakait-Telugu-2026
 #EXTVLCOPT:network-caching=1000
 https://hub.lotuscdn.club/d4d06a57c5a0ccc66256e02809360956?token=1778580557139
@@ -31,6 +43,42 @@ https://hub.lotuscdn.club/118c1ca1d0844c0d762345fdabecb20d?token=177805248315
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/97jAFQcAnspd416cupbAbGMNT9z.jpg", D Karela Stry 2 GB-Telugu-2026
 #EXTVLCOPT:network-caching=1000
 https://hub.diskcdn.buzz/cc319bea16147a17fcad1098bf9d9eae?token=177805673018
+
+#EXTINF:-1,UBS2026
+#EXTVLCOPT:network-caching=1000
+https://hub.yummy.monster/ac83104236e5daefcc76c944984edb01?token=1776415639
+
+#EXTINF:-1,YTH2026
+#EXTVLCOPT:network-caching=1000
+https://cdn.fukggl.buzz/Youth.2026.720p.NF.WEB-DL.AAC5.1.AV1-XDMovies.mkv?token=853f62af11dbb4349b8be6b19e849317_131
+
+#EXTINF:-1,SAO-720P-2026
+#EXTVLCOPT:network-caching=1000
+https://hub.yummy.monster/c3099a26766960cb8856bac816f54f8d?token=1776529035147
+
+#EXTINF:-1,SAO-1080P-2026
+#EXTVLCOPT:network-caching=1000
+https://hub.yummy.monster/ddae079ef2aeb79567b95e0823686ecc?token=1776529153149
+
+#EXTINF:-1,SUYO-720P-2026
+#EXTVLCOPT:network-caching=1000
+https://hub.odyssey.surf/a51e3eb2fc49b84c79b875de0082db21?token=1776529251150
+
+#EXTINF:-1,TOAST-720P-2026
+#EXTVLCOPT:network-caching=1000
+https://hub.yummy.monster/eca9ac1edd847915dd6a8c40d79500ca?token=177652995712
+
+#EXTINF:-1,Rakasa-720P-2026
+#EXTVLCOPT:network-caching=1000
+https://hub.diskcdn.buzz/167d1165331896550f4f084143e5a322?token=1777633905141
+
+#EXTINF:-1,Biker-720P-2026
+#EXTVLCOPT:network-caching=1000
+https://cdn.fukggl.buzz/Biker.2026.720p.NF.WEB-DL.AAC5.1.H.264-XDMovies.mkv?token=3818068dffff2dd69585d684249883f1_147
+
+#EXTINF:-1,Prathichaya-720P-2026
+#EXTVLCOPT:network-caching=1000
+https://hub.maverick.lat/3b783b173514c5059d3840b4970077fd?token=1777634342149
 
 #EXTINF:-1 tvg-logo="", Movie Name
 #EXTVLCOPT:network-caching=1000
