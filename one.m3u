@@ -1,82 +1,74 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/dI7CjJA4cC92UcKMBnCh5BTDHVQ.jpg", DoorAndhar-Two-2026
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/dI7CjJA4cC92UcKMBnCh5BTDHVQ.jpg", DoorAndhar-Two (2026)
 #EXTVLCOPT:network-caching=1000
 https://hub.glasscdn.buzz/8ff4ccedc60818879f03d5d8b5883ffe?token=1778832395
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/dNSxtbTKClhbCVwChbW7GogafJy.jpg", Karthavyam-2026
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/dNSxtbTKClhbCVwChbW7GogafJy.jpg", Karthavyam (2026)
 #EXTVLCOPT:network-caching=1000
 https://hub.glasscdn.buzz/ffdfa9ef939b989b6509ccef9de3b8dd?token=1778834936118
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/5dYmfe3UtKyWZs4GNlLPS4pweEa.jpg", 10 Haurs-2026
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/5dYmfe3UtKyWZs4GNlLPS4pweEa.jpg", 10 Haurs (2026)
 #EXTVLCOPT:network-caching=1000
 https://hub.lotuscdn.club/83ad4ab0f26b9d777737f01c3a93a1f3?token=1778835041120
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/lbrnJY7E0a9xxgj2cotNp6YI4dz.jpg", Dakait-Telugu-2026
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/lbrnJY7E0a9xxgj2cotNp6YI4dz.jpg", Dakait (2026)
 #EXTVLCOPT:network-caching=1000
 https://hub.lotuscdn.club/d4d06a57c5a0ccc66256e02809360956?token=1778580557139
 
-#EXTINF:-1, MH Mallesh-Telugu-2026
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYWFkNjNhNjktNjM4YS00YTUxLWI0ZDEtYTkyZWJhOWU0OTU0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg", MH Mallesh (2026)
 #EXTVLCOPT:network-caching=1000
 https://abra--5e4bd525.api.cosmic-crab.buzz/050204b531058deab9dfacf1b623b49e3cf8900b/www.5MovieRulz.graphics%20-%20Mension%20House%20Mallesh%20%282026%29%201080p%20Telugu%20TRUE%20WEB-DL%20-%20AVC%20-%20%28DD+2.0%20-%20224Kbps%20&%20AAC%29%20-%202.4GB%20-%20ESub.mkv?api-key=8acbcf1e-732c-4574-a3bf-27e6a85b86f1&download=true&token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3Nzg2NjY0NDIsInJhdGUiOiI1TSIsInJvbGUiOiJmcmVlIiwic2Vzc2lvbklEIjoiTVRjM09EVTRNREF4TW54T2QzZEJUa1pPUzAwd1pGSldWV3hHVTFVeFRGWlZWWGxPUkZwVVZtdGFUMU5GTVVWV1JHUlpWMnhHVEZkc1NreE5NR2haVjFWc1VsVldRa3hWVkZaUlZXcFplVlpHUlhwUk1FVTlmRkM3eG55RFJKTFlrUGdnU0NHaGU5S0VwRTRvNWdvNkZGdkdXdzJtZVlqVCIsImRvbWFpbiI6IndlYnRvci5pbyIsImFnZW50IjoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzE0Ni4wLjAuMCBTYWZhcmkvNTM3LjM2IE9QUi8xMzAuMC4wLjAiLCJyZW1vdGVBZGRyZXNzIjoiNzcuMTExLjI0Ni40OSJ9.zhtTTr4XyDm1BnKeOhompXqkxw0V4Am_mxr35bneLjQ
 
-#EXTINF:-1, Happi Raju-Telugu-2026
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/8hmB6KNUFFzChYJxngIp063H2YR.jpg", Happi Raju (2026)
 #EXTVLCOPT:network-caching=1000
 https://hub.maverick.lat/5570b4654ac6a425abd379613c1266b9?token=1778684792136
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/1yLZ7kExd0UGGbaZW4LxmYD4OIf.jpg", Vaja 2-Telugu-2026
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/1yLZ7kExd0UGGbaZW4LxmYD4OIf.jpg", Vaja 2 (2026)
 #EXTVLCOPT:network-caching=1000
 https://hub.lotuscdn.club/6022dcd1d6981509bfc14c8b31c9c5b3?token=177829768614
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/lsg0IxNQCUxKqs63YjturEuY0qQ.jpg", Banatyam 2 Mattam-Telugu-2026
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/lsg0IxNQCUxKqs63YjturEuY0qQ.jpg", Banatyam 2 Mattam (2026)
 #EXTVLCOPT:network-caching=1000
 https://hub.lotuscdn.club/26b9b4df7cb2b448a485232c1409c156?token=1778297839
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/3yqreNY1f4iOXX0vBAqY64ZvxiV.jpg", Aaaadu-Telugu-2026
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/3yqreNY1f4iOXX0vBAqY64ZvxiV.jpg", Aaaadu (2026)
 #EXTVLCOPT:network-caching=1000
 https://hub.diskcdn.buzz/e06cdd51e8ff2400bba6ff00cbffbccb?token=1778148916145
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/1IIUWMKzNVvI6YJX8BKE6EJ9bVd.jpg", LIK-Telugu-2026
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/1IIUWMKzNVvI6YJX8BKE6EJ9bVd.jpg", LIK (2026)
 #EXTVLCOPT:network-caching=1000
 https://hub.lotuscdn.club/118c1ca1d0844c0d762345fdabecb20d?token=177805248315
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/97jAFQcAnspd416cupbAbGMNT9z.jpg", D Karela Stry 2 GB-Telugu-2026
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/97jAFQcAnspd416cupbAbGMNT9z.jpg", D Karela Stry 2 GB (2026)
 #EXTVLCOPT:network-caching=1000
 https://hub.diskcdn.buzz/cc319bea16147a17fcad1098bf9d9eae?token=177805673018
 
-#EXTINF:-1,UBS2026
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/8n4ypYQWztEXlR8JxD0fctdKwfC.jpg", UB Singh (2026)
 #EXTVLCOPT:network-caching=1000
 https://hub.yummy.monster/ac83104236e5daefcc76c944984edb01?token=1776415639
 
-#EXTINF:-1,YTH2026
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/rNzk0jlGRPnvZ26On5xhTmLaQhO.jpg", Yuth (2026)
 #EXTVLCOPT:network-caching=1000
 https://cdn.fukggl.buzz/Youth.2026.720p.NF.WEB-DL.AAC5.1.AV1-XDMovies.mkv?token=853f62af11dbb4349b8be6b19e849317_131
 
-#EXTINF:-1,SAO-720P-2026
-#EXTVLCOPT:network-caching=1000
-https://hub.yummy.monster/c3099a26766960cb8856bac816f54f8d?token=1776529035147
-
-#EXTINF:-1,SAO-1080P-2026
-#EXTVLCOPT:network-caching=1000
-https://hub.yummy.monster/ddae079ef2aeb79567b95e0823686ecc?token=1776529153149
-
-#EXTINF:-1,SUYO-720P-2026
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/78PqPoJA3Lh491K0Eq1Tvh3JWv4.jpg", Suyodanna (2026)
 #EXTVLCOPT:network-caching=1000
 https://hub.odyssey.surf/a51e3eb2fc49b84c79b875de0082db21?token=1776529251150
 
-#EXTINF:-1,TOAST-720P-2026
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/bQhCscL7yV8qtod2mDpJa6S28VJ.jpg", Twostaar (2026)
 #EXTVLCOPT:network-caching=1000
 https://hub.yummy.monster/eca9ac1edd847915dd6a8c40d79500ca?token=177652995712
 
-#EXTINF:-1,Rakasa-720P-2026
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/x7zwiuC1HTw5XGZ5JrOwF9uFqRy.jpg", Rakkasa (2026)
 #EXTVLCOPT:network-caching=1000
 https://hub.diskcdn.buzz/167d1165331896550f4f084143e5a322?token=1777633905141
 
-#EXTINF:-1,Biker-720P-2026
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/uNN0DqB7fwGeX3uNhTfQzzKhgTP.jpg", Biker (2026)
 #EXTVLCOPT:network-caching=1000
 https://cdn.fukggl.buzz/Biker.2026.720p.NF.WEB-DL.AAC5.1.H.264-XDMovies.mkv?token=3818068dffff2dd69585d684249883f1_147
 
-#EXTINF:-1,Prathichaya-720P-2026
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/4VD2H8ZwFDORWCaYS5TbhMVPdAv.jpg", Prathichaya (2026)
 #EXTVLCOPT:network-caching=1000
 https://hub.maverick.lat/3b783b173514c5059d3840b4970077fd?token=1777634342149
 
