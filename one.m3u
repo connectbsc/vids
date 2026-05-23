@@ -1,5 +1,31 @@
 #EXTM3U
 
+# --- The Series Episodes (Grouped Together) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/fIuobszwPZicOoWzZJnIwRcUCKw.jpg" group-title="Memu Kapulam (2026)", The Missing Champion S01-E01
+#EXTVLCOPT:network-caching=1000
+https://hub.homelander.buzz/21697ab54aaf178df43118a62382118e?token=1779522547119
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/fIuobszwPZicOoWzZJnIwRcUCKw.jpg" group-title="Memu Kapulam (2026)", Cooped Up Secrets S01-E02
+#EXTVLCOPT:network-caching=1000
+https://hub.homelander.buzz/e5e8353a381fe6464ac8fd6426df7795?token=1779524263147
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/fIuobszwPZicOoWzZJnIwRcUCKw.jpg" group-title="Memu Kapulam (2026)", The Great Rooster Heist S01-E03
+#EXTVLCOPT:network-caching=1000
+https://hub.homelander.buzz/f92791ea02df4eddf93ab297d2ddb448?token=1779524351149
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/fIuobszwPZicOoWzZJnIwRcUCKw.jpg" group-title="Memu Kapulam (2026)", The Silent Puppeteer S01-E04
+#EXTVLCOPT:network-caching=1000
+https://hub.homelander.buzz/88138b7730275b3dfd236e7f7640c74e?token=1779524445150
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/fIuobszwPZicOoWzZJnIwRcUCKw.jpg" group-title="Memu Kapulam (2026)", The Disgraced Deputy S01-E05
+#EXTVLCOPT:network-caching=1000
+https://hub.homelander.buzz/e23aa17d7952d03de7da711a505a5517?token=1779524580153
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/fIuobszwPZicOoWzZJnIwRcUCKw.jpg" group-title="Memu Kapulam (2026)", An Unfinished Sentence S01-E06
+#EXTVLCOPT:network-caching=1000
+https://hub.homelander.buzz/e6871d1b9b055325e7d18ec9ff64dc99?token=1779524654154
+
+# --- Movies ---
 #EXTINF:-1 tvg-logo="https://www.5movierulz.forsale/uploads/Bad-Boy-Karthik-Telugu.jpg", Baad by karthik (2026)
 #EXTVLCOPT:network-caching=1000
 https://esync04.easysyncr.org/6a06292b1148a-Bad%20Boy%20Karthik%20%282026%29%20720p%20Telugu%20HQ%20HDRip%20-%20x264%20-%20AAC%20-%201.3GB%20-%20ESub.mkv?response-content-disposition=attachment%3B%20filename%3D%22Bad%20Boy%20Karthik%20%282026%29%20720p%20Telugu%20HQ%20HDRip%20-%20x264%20-%20AAC%20-%201.3GB%20-%20ESub.mkv%22&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=86a49cba67322ad1a44e05f9201c98be%2F20260517%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260517T152558Z&X-Amz-SignedHeaders=host&X-Amz-Expires=6000&X-Amz-Signature=7d203aab5049736aed50232fba95f19aef3ba123bdcbdcb1cf7a6a81e1c1abef
@@ -80,6 +106,6 @@ https://cdn.fukggl.buzz/Biker.2026.720p.NF.WEB-DL.AAC5.1.H.264-XDMovies.mkv?toke
 #EXTVLCOPT:network-caching=1000
 https://hub.maverick.lat/3b783b173514c5059d3840b4970077fd?token=1777634342149
 
-#EXTINF:-1 tvg-logo="", Movie Name
+#EXTINF:-1 tvg-logo="image url", Name
 #EXTVLCOPT:network-caching=1000
-https://hub.diskcdn.buzz/35765775ed7c19b997d3209520004420?token=1778057128115
+https://movie-link-url
