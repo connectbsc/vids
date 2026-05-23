@@ -26,6 +26,10 @@ https://hub.homelander.buzz/e23aa17d7952d03de7da711a505a5517?token=1779524580153
 https://hub.homelander.buzz/e6871d1b9b055325e7d18ec9ff64dc99?token=1779524654154
 
 # --- Movies ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/s7SQGxATaLrbd7tSAQVQtgAuryN.jpg", Gaayapadda Simham (2026)
+#EXTVLCOPT:network-caching=1000
+https://hub.homelander.buzz/61a8fad9717f0bba4d88599a46d1e815?token=1779524970159
+
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/ddSTqsxOoXs77xnKpP7XBPqiero.jpg", System (2026)
 #EXTVLCOPT:network-caching=1000
 https://hub.homelander.buzz/a6474b14fad4476fda9819f057e152fa?token=1779524822157
