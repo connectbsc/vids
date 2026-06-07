@@ -4,6 +4,10 @@
 #EXTVLCOPT:network-caching=1000
 https://hub.mandalorian.buzz/03ea924de4d6018a312bccb0431e6b28?token=1780807521115
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/r9YqrSeeh75cRF9imUTdvFrM2YG.jpg", Godari Gattupaina (గోదారి గట్టుపైన) (2026)
+#EXTVLCOPT:network-caching=1000
+https://hub.noirspy.buzz/00e66a60f490ecb896c62ce2331e9a7c?token=1780807699118
+
 # --- The Series Episodes (Grouped Together) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/fIuobszwPZicOoWzZJnIwRcUCKw.jpg" group-title="Memu Kapulam (2026)", The Missing Champion S01-E01
 #EXTVLCOPT:network-caching=1000
