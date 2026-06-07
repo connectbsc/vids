@@ -8,6 +8,10 @@ https://hub.mandalorian.buzz/03ea924de4d6018a312bccb0431e6b28?token=178080752111
 #EXTVLCOPT:network-caching=1000
 https://hub.noirspy.buzz/00e66a60f490ecb896c62ce2331e9a7c?token=1780807699118
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/aQZ4OxzaYTN7cRN7fALi9BhPucp.jpg", 29 (2026)
+#EXTVLCOPT:network-caching=1000
+https://hub.obsession.buzz/508d1ee56072e192df1f299d00b3e477?token=1780807912121
+
 # --- The Series Episodes (Grouped Together) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/fIuobszwPZicOoWzZJnIwRcUCKw.jpg" group-title="Memu Kapulam (2026)", The Missing Champion S01-E01
 #EXTVLCOPT:network-caching=1000
