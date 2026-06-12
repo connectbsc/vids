@@ -1,5 +1,13 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/4KZXlZ5tTT6ghbW77gS4hSLkCd7.jpg", Veerabhadrudu (వీరభద్రుడు) (2026)
+#EXTVLCOPT:network-caching=1000
+https://hub.whistle.lat/88bba5656325aeb2f0fbcbfe4620ddd5?token=1781244509141
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/fXSdAujfiRRW6LqekN4FvFQidh3.jpg", Dridam (2026)
+#EXTVLCOPT:network-caching=1000
+https://hub.whistle.lat/459292204b94cafd7ba5f04049b2c485?token=1781237746139
+
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/uIrFdMWlJFdc1jPBP9bxeaISCDj.jpg", Kara (కర) (2026)
 #EXTVLCOPT:network-caching=1000
 https://hub.mandalorian.buzz/03ea924de4d6018a312bccb0431e6b28?token=1780807521115
