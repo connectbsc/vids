@@ -1,5 +1,9 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/ho824aZtnBzE6FuJRn2znQCq4qQ.jpg", Blast (బ్లాస్ట్) (2026)
+#EXTVLCOPT:network-caching=1000
+https://cdn.fsl-buckets.life/Blast.2026.720p.NF.WEB-DL.DDP5.1.AV1-XDMovies.com.mkv?token=e52f5c18b9bb5d4b4d50178d9a0c8a57_10
+
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/456FlpiU1iOBnaOxSd783QhZKWw.jpg", Drishyam 3 (దృశ్యం 3) (2026)
 #EXTVLCOPT:network-caching=1000
 https://hub.pyramid.surf/d79a28568ac93e98108a6e0e1402c5bb?token=1781881613134
