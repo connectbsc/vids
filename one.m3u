@@ -1,5 +1,9 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/7vngU2hjh01pCyRUsjgjD0draOl.jpg", Sing Geetham (సింగ్ గీతమ్) (2026)
+#EXTVLCOPT:network-caching=1000
+https://c6b1e8c93683bdde581e2164cb9657c9.r2.cloudflarestorage.com/hub/2a79470c66663077a825e531f185bfb5?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ce3806fdca997f65e356f3b6fc2f735d%2F20260708%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260708T150936Z&X-Amz-Expires=28800&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%3D%22Sing.Geetam.2026.720p.NF.WEB-DL.DDP5.1.AV1-XDMovies.com.mkv%22&X-Amz-Signature=886ecc76502c2c2871d2a59925a48c992d6982b37a1e1db06b742202f695318f
+
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/ho824aZtnBzE6FuJRn2znQCq4qQ.jpg", Blast (బ్లాస్ట్) (2026)
 #EXTVLCOPT:network-caching=1000
 https://hub.latent.click/f4ff32d98540f8d5c6a06806ab882c8b?token=1782574118158
