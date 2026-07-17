@@ -1,5 +1,13 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/v8JvcEmBfszcvEzwlB8FN1aPVaK.jpg", Maa Inti Bangaram (మా ఇంటి బంగారం) (2026)
+#EXTVLCOPT:network-caching=1000
+https://pixeldrain.dev/api/file/PhtVvZSW?download
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/v8JvcEmBfszcvEzwlB8FN1aPVaK.jpg", Maa Inti Bangaram (మా ఇంటి బంగారం) (2026)
+#EXTVLCOPT:network-caching=1000
+https://36ca20d938d7985a0c3646e8dd103d92.r2.cloudflarestorage.com/hub2/3b397dbf3b23ad43ce7766c880e5f3dd?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0464a11272e5a07abcce337fd0b60cc8%2F20260717%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260717T045819Z&X-Amz-Expires=28800&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%3D%22Maa.Inti.Bangaram.2026.720p.JHS.WEB-DL.MULTi.DDP5.1.H.265-PMi-XDMovies.mkv%22&X-Amz-Signature=55aa8ada33d0a5d3ff080649007c77f78a9285c89d9de77a10e9acf0bbee2afe
+
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/kJAJNNBYlbqAcpTDxBNnaILSMTy.jpg", Peddi (పెద్ది) (2026)
 #EXTVLCOPT:network-caching=1000
 https://cdn.fsl-buckets.life/Peddi.2026.720p.NF.WEB-DL.AAC5.1.AV1-XDMovies.com.mkv?token=8f326833808936bd0b6e863e4bda47d9_142
