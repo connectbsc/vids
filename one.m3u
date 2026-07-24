@@ -1,5 +1,9 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/pJ4UwvLpek1jK8d540Ho8xI08iL.jpg", Con City (2026)
+#EXTVLCOPT:network-caching=1000
+https://628cb77e7ed58a3f0a3b9fbd9187862f.r2.cloudflarestorage.com/hub2/f5ada59b8fe82ed4d0ec73d98d42a666?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=9186ca719cf19999e67b68fd3eaebd23%2F20260724%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260724T163400Z&X-Amz-Expires=28800&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%3D%22Con_.City.2026.720p.NF.WEB-DL.AAC5.1.AV1-XDMovies.com.mkv%22&X-Amz-Signature=066fcb16325b8c2a944a87f18c2e95c6add80b8ba197c6dd044d12e5335eeb00
+
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/v8JvcEmBfszcvEzwlB8FN1aPVaK.jpg", Maa Inti Bangaram (మా ఇంటి బంగారం) (2026)
 #EXTVLCOPT:network-caching=1000
 https://pixeldrain.dev/api/file/PhtVvZSW?download
