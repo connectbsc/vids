@@ -1,5 +1,9 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/IM2OXyozpmi9dLpx46XYQXxOTd.jpg", Chinna Chinna Aasai (చిన్ని చిన్ని ఆశ) (2026)
+#EXTVLCOPT:network-caching=1000
+https://pixeldrain.dev/api/file/DVug3ePm?download
+
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/5U8MWIk9XZ60NALyOTpyX7vXIR7.jpg", Gatta Kusthi 2 (గట్టా కుస్తీ 2) (2026)
 #EXTVLCOPT:network-caching=1000
 https://pixeldrain.dev/api/file/W1NZp3PP?download
